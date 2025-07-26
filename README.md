@@ -1,2 +1,2 @@
 # Lagerverwaltung
-python script zur Lagerverwaltung für Übungszwecke
+Python script zur Lagerverwaltung 
